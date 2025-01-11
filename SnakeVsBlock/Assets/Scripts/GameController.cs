@@ -101,7 +101,7 @@ public class GameController : MonoBehaviour {
     }
     public void Restart()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("122i08nk721j8ln94j",
             (bol) => {
                 if (bol)
                 {
@@ -185,9 +185,8 @@ public class GameController : MonoBehaviour {
         //Increase AdMob Counter
         AdManager.gameoverCounter++;
 
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("1bm5oajsase99d06ff",
             () => {
-                Debug.LogError("--插屏广告完成--");
 
             },
             (it, str) => {

@@ -818,6 +818,8 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t KeyValuePair_2_get_Key_m2
 
 // System.Int32 UnityEngine.Touch::get_fingerId()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_fingerId_mC1DCE93BFA0574960A3AE5329AE6C5F7E06962BD (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_fingerId(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_fingerId_m8BBCD294D98305D705F6515EB6EB6A302B23E543 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) ;
 // UnityEngine.Vector2 UnityEngine.Touch::get_position()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Touch_get_position_m41B9EB0F3F3E1BE98CEB388253A9E31979CB964A (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
 // System.Void UnityEngine.Touch::set_position(UnityEngine.Vector2)
@@ -832,24 +834,44 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_deltaPosition_mD2323B6E679DA9CE9FE1E3F4D3E2D12A33328E7A (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_deltaTime()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_deltaTime_mD07672B54CBA02C226097B54E286C1DFE96EC3BC (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_deltaTime(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_deltaTime_m184C925F328EBD11ACD9D0B2969A7AECB09BA429 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // System.Int32 UnityEngine.Touch::get_tapCount()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_tapCount_mE75D2783AC38FCF536C99F36AB9F76AFA3EB7EB6 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_tapCount(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_tapCount_m5F356E1CF7FF9DD41D37AD5D59C0650FC5771E36 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) ;
 // UnityEngine.TouchPhase UnityEngine.Touch::get_phase()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_phase_mB82409FB2BE1C32ABDBA6A72E52A099D28AB70B0 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_phase(UnityEngine.TouchPhase)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_phase_m47EEB383DD6F9EC6C4840B1F145D6818FCEBBD93 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_pressure()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_pressure_mB8214D0E920156CA4679BAC03E86106E8E4BDA5C (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_pressure(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_pressure_m2D9F9D813ECC29883196988E1127DEC93EC83C78 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_maximumPossiblePressure()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_maximumPossiblePressure_m2D147A58465EB39B397722D8597CF9E06AC85FAE (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_maximumPossiblePressure(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_maximumPossiblePressure_m9C821DDC85966E5E009EC9A039A6FD9B5511E841 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // UnityEngine.TouchType UnityEngine.Touch::get_type()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_type_mB505EF2DCF13160DFA0C6AAF406DCB4CBED20745 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_type(UnityEngine.TouchType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_type_mA97992E6B2C00207DF82CA2184DE6B4F22A7BEC1 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_altitudeAngle()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_altitudeAngle_m26DEF010E2CDC23F4FADE8E49A986D557C07D391 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_altitudeAngle(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_altitudeAngle_mBB5987AA6F0CCBF4E48BBC004474F7AA70F430F0 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_azimuthAngle()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_azimuthAngle_m2F11532183492E608922A2F9D9EC9AC31D34F490 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_azimuthAngle(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_azimuthAngle_m076DE0C898C8C61F3CF4E1A5BA2D60F8FF66B87C (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_radius()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_radius_m5BC9C50DABBB17B07742BAFC6CC36A6736AE7960 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_radius(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_radius_m50765FCA177E136896A04E640403CE1C1BE4F1FC (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // System.Single UnityEngine.Touch::get_radiusVariance()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_radiusVariance_m6F54BE964B91C3B2F8FA2A483E1FDB644B282B21 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Touch::set_radiusVariance(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_radiusVariance_mD579FB863378B3774D71C87886D3D1F26B3BF4B9 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) ;
 // UnityEngine.GameObject UnityEngine.CameraRaycastHelper::RaycastTry_Injected(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* CameraRaycastHelper_RaycastTry_Injected_m4A9EA285FB7B24B7B3D894E7EE997B41ED302DEF (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_cam, Ray_t2B1742D7958DC05BDC3EFC7461D3593E1430DC00* ___1_ray, float ___2_distance, int32_t ___3_layerMask, const RuntimeMethod* method) ;
 // UnityEngine.GameObject UnityEngine.CameraRaycastHelper::RaycastTry2D_Injected(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)
@@ -1027,6 +1049,22 @@ IL2CPP_EXTERN_C  int32_t Touch_get_fingerId_mC1DCE93BFA0574960A3AE5329AE6C5F7E06
 	_returnValue = Touch_get_fingerId_mC1DCE93BFA0574960A3AE5329AE6C5F7E06962BD(_thisAdjusted, method);
 	return _returnValue;
 }
+// System.Void UnityEngine.Touch::set_fingerId(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_fingerId_m8BBCD294D98305D705F6515EB6EB6A302B23E543 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	{
+		int32_t L_0 = ___0_value;
+		__this->___m_FingerId_0 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_fingerId_m8BBCD294D98305D705F6515EB6EB6A302B23E543_AdjustorThunk (RuntimeObject* __this, int32_t ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_fingerId_m8BBCD294D98305D705F6515EB6EB6A302B23E543(_thisAdjusted, ___0_value, method);
+}
 // UnityEngine.Vector2 UnityEngine.Touch::get_position()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Touch_get_position_m41B9EB0F3F3E1BE98CEB388253A9E31979CB964A (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
 {
@@ -1178,6 +1216,22 @@ IL2CPP_EXTERN_C  float Touch_get_deltaTime_mD07672B54CBA02C226097B54E286C1DFE96E
 	_returnValue = Touch_get_deltaTime_mD07672B54CBA02C226097B54E286C1DFE96EC3BC(_thisAdjusted, method);
 	return _returnValue;
 }
+// System.Void UnityEngine.Touch::set_deltaTime(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_deltaTime_m184C925F328EBD11ACD9D0B2969A7AECB09BA429 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_TimeDelta_4 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_deltaTime_m184C925F328EBD11ACD9D0B2969A7AECB09BA429_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_deltaTime_m184C925F328EBD11ACD9D0B2969A7AECB09BA429(_thisAdjusted, ___0_value, method);
+}
 // System.Int32 UnityEngine.Touch::get_tapCount()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_tapCount_mE75D2783AC38FCF536C99F36AB9F76AFA3EB7EB6 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
 {
@@ -1202,6 +1256,22 @@ IL2CPP_EXTERN_C  int32_t Touch_get_tapCount_mE75D2783AC38FCF536C99F36AB9F76AFA3E
 	int32_t _returnValue;
 	_returnValue = Touch_get_tapCount_mE75D2783AC38FCF536C99F36AB9F76AFA3EB7EB6(_thisAdjusted, method);
 	return _returnValue;
+}
+// System.Void UnityEngine.Touch::set_tapCount(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_tapCount_m5F356E1CF7FF9DD41D37AD5D59C0650FC5771E36 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	{
+		int32_t L_0 = ___0_value;
+		__this->___m_TapCount_5 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_tapCount_m5F356E1CF7FF9DD41D37AD5D59C0650FC5771E36_AdjustorThunk (RuntimeObject* __this, int32_t ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_tapCount_m5F356E1CF7FF9DD41D37AD5D59C0650FC5771E36(_thisAdjusted, ___0_value, method);
 }
 // UnityEngine.TouchPhase UnityEngine.Touch::get_phase()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_phase_mB82409FB2BE1C32ABDBA6A72E52A099D28AB70B0 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
@@ -1228,6 +1298,22 @@ IL2CPP_EXTERN_C  int32_t Touch_get_phase_mB82409FB2BE1C32ABDBA6A72E52A099D28AB70
 	_returnValue = Touch_get_phase_mB82409FB2BE1C32ABDBA6A72E52A099D28AB70B0(_thisAdjusted, method);
 	return _returnValue;
 }
+// System.Void UnityEngine.Touch::set_phase(UnityEngine.TouchPhase)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_phase_m47EEB383DD6F9EC6C4840B1F145D6818FCEBBD93 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	{
+		int32_t L_0 = ___0_value;
+		__this->___m_Phase_6 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_phase_m47EEB383DD6F9EC6C4840B1F145D6818FCEBBD93_AdjustorThunk (RuntimeObject* __this, int32_t ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_phase_m47EEB383DD6F9EC6C4840B1F145D6818FCEBBD93(_thisAdjusted, ___0_value, method);
+}
 // System.Single UnityEngine.Touch::get_pressure()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_pressure_mB8214D0E920156CA4679BAC03E86106E8E4BDA5C (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
 {
@@ -1252,6 +1338,22 @@ IL2CPP_EXTERN_C  float Touch_get_pressure_mB8214D0E920156CA4679BAC03E86106E8E4BD
 	float _returnValue;
 	_returnValue = Touch_get_pressure_mB8214D0E920156CA4679BAC03E86106E8E4BDA5C(_thisAdjusted, method);
 	return _returnValue;
+}
+// System.Void UnityEngine.Touch::set_pressure(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_pressure_m2D9F9D813ECC29883196988E1127DEC93EC83C78 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_Pressure_8 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_pressure_m2D9F9D813ECC29883196988E1127DEC93EC83C78_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_pressure_m2D9F9D813ECC29883196988E1127DEC93EC83C78(_thisAdjusted, ___0_value, method);
 }
 // System.Single UnityEngine.Touch::get_maximumPossiblePressure()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_maximumPossiblePressure_m2D147A58465EB39B397722D8597CF9E06AC85FAE (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
@@ -1278,6 +1380,22 @@ IL2CPP_EXTERN_C  float Touch_get_maximumPossiblePressure_m2D147A58465EB39B397722
 	_returnValue = Touch_get_maximumPossiblePressure_m2D147A58465EB39B397722D8597CF9E06AC85FAE(_thisAdjusted, method);
 	return _returnValue;
 }
+// System.Void UnityEngine.Touch::set_maximumPossiblePressure(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_maximumPossiblePressure_m9C821DDC85966E5E009EC9A039A6FD9B5511E841 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_maximumPossiblePressure_9 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_maximumPossiblePressure_m9C821DDC85966E5E009EC9A039A6FD9B5511E841_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_maximumPossiblePressure_m9C821DDC85966E5E009EC9A039A6FD9B5511E841(_thisAdjusted, ___0_value, method);
+}
 // UnityEngine.TouchType UnityEngine.Touch::get_type()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Touch_get_type_mB505EF2DCF13160DFA0C6AAF406DCB4CBED20745 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
 {
@@ -1302,6 +1420,22 @@ IL2CPP_EXTERN_C  int32_t Touch_get_type_mB505EF2DCF13160DFA0C6AAF406DCB4CBED2074
 	int32_t _returnValue;
 	_returnValue = Touch_get_type_mB505EF2DCF13160DFA0C6AAF406DCB4CBED20745(_thisAdjusted, method);
 	return _returnValue;
+}
+// System.Void UnityEngine.Touch::set_type(UnityEngine.TouchType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_type_mA97992E6B2C00207DF82CA2184DE6B4F22A7BEC1 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	{
+		int32_t L_0 = ___0_value;
+		__this->___m_Type_7 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_type_mA97992E6B2C00207DF82CA2184DE6B4F22A7BEC1_AdjustorThunk (RuntimeObject* __this, int32_t ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_type_mA97992E6B2C00207DF82CA2184DE6B4F22A7BEC1(_thisAdjusted, ___0_value, method);
 }
 // System.Single UnityEngine.Touch::get_altitudeAngle()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_altitudeAngle_m26DEF010E2CDC23F4FADE8E49A986D557C07D391 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
@@ -1328,6 +1462,22 @@ IL2CPP_EXTERN_C  float Touch_get_altitudeAngle_m26DEF010E2CDC23F4FADE8E49A986D55
 	_returnValue = Touch_get_altitudeAngle_m26DEF010E2CDC23F4FADE8E49A986D557C07D391(_thisAdjusted, method);
 	return _returnValue;
 }
+// System.Void UnityEngine.Touch::set_altitudeAngle(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_altitudeAngle_mBB5987AA6F0CCBF4E48BBC004474F7AA70F430F0 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_AltitudeAngle_12 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_altitudeAngle_mBB5987AA6F0CCBF4E48BBC004474F7AA70F430F0_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_altitudeAngle_mBB5987AA6F0CCBF4E48BBC004474F7AA70F430F0(_thisAdjusted, ___0_value, method);
+}
 // System.Single UnityEngine.Touch::get_azimuthAngle()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_azimuthAngle_m2F11532183492E608922A2F9D9EC9AC31D34F490 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
 {
@@ -1352,6 +1502,22 @@ IL2CPP_EXTERN_C  float Touch_get_azimuthAngle_m2F11532183492E608922A2F9D9EC9AC31
 	float _returnValue;
 	_returnValue = Touch_get_azimuthAngle_m2F11532183492E608922A2F9D9EC9AC31D34F490(_thisAdjusted, method);
 	return _returnValue;
+}
+// System.Void UnityEngine.Touch::set_azimuthAngle(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_azimuthAngle_m076DE0C898C8C61F3CF4E1A5BA2D60F8FF66B87C (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_AzimuthAngle_13 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_azimuthAngle_m076DE0C898C8C61F3CF4E1A5BA2D60F8FF66B87C_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_azimuthAngle_m076DE0C898C8C61F3CF4E1A5BA2D60F8FF66B87C(_thisAdjusted, ___0_value, method);
 }
 // System.Single UnityEngine.Touch::get_radius()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_radius_m5BC9C50DABBB17B07742BAFC6CC36A6736AE7960 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
@@ -1378,6 +1544,22 @@ IL2CPP_EXTERN_C  float Touch_get_radius_m5BC9C50DABBB17B07742BAFC6CC36A6736AE796
 	_returnValue = Touch_get_radius_m5BC9C50DABBB17B07742BAFC6CC36A6736AE7960(_thisAdjusted, method);
 	return _returnValue;
 }
+// System.Void UnityEngine.Touch::set_radius(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_radius_m50765FCA177E136896A04E640403CE1C1BE4F1FC (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_Radius_10 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_radius_m50765FCA177E136896A04E640403CE1C1BE4F1FC_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_radius_m50765FCA177E136896A04E640403CE1C1BE4F1FC(_thisAdjusted, ___0_value, method);
+}
 // System.Single UnityEngine.Touch::get_radiusVariance()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Touch_get_radiusVariance_m6F54BE964B91C3B2F8FA2A483E1FDB644B282B21 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, const RuntimeMethod* method) 
 {
@@ -1402,6 +1584,22 @@ IL2CPP_EXTERN_C  float Touch_get_radiusVariance_m6F54BE964B91C3B2F8FA2A483E1FDB6
 	float _returnValue;
 	_returnValue = Touch_get_radiusVariance_m6F54BE964B91C3B2F8FA2A483E1FDB644B282B21(_thisAdjusted, method);
 	return _returnValue;
+}
+// System.Void UnityEngine.Touch::set_radiusVariance(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Touch_set_radiusVariance_mD579FB863378B3774D71C87886D3D1F26B3BF4B9 (Touch_t03E51455ED508492B3F278903A0114FA0E87B417* __this, float ___0_value, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_value;
+		__this->___m_RadiusVariance_11 = L_0;
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void Touch_set_radiusVariance_mD579FB863378B3774D71C87886D3D1F26B3BF4B9_AdjustorThunk (RuntimeObject* __this, float ___0_value, const RuntimeMethod* method)
+{
+	Touch_t03E51455ED508492B3F278903A0114FA0E87B417* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<Touch_t03E51455ED508492B3F278903A0114FA0E87B417*>(__this + _offset);
+	Touch_set_radiusVariance_mD579FB863378B3774D71C87886D3D1F26B3BF4B9(_thisAdjusted, ___0_value, method);
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
