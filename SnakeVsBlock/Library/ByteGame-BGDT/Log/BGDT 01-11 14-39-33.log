@@ -1,0 +1,14 @@
+[14:39:33][I][CoreLoadManager] LoadRemote.
+[14:39:34][I][CoreLoadManager] LoadRemote ok.
+[14:39:34][I][FileCoreLoader] Load file:C:\宇宙蛇\SnakeVsBlock\Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor\bgdt.data, version:3.0.271
+[14:39:34][I][FileCoreLoader] Load assembly.
+[14:39:34][I][FileCoreLoader] Load assembly ok.
+[14:39:34][I][AuthService] StartWebServer at port : 62546
+[14:39:34][I][CoreLoadManager] core loaded !!!!!
+[14:39:35][I][NoteManager] ws: >> start
+[14:39:35][I][NoteManager] wss://bgutools.bytedance.com/v2/ws/note?token=
+[14:39:35][I][NoteManager] ws: >> start
+[14:39:35][I][NoteManager] wss://bgutools.bytedance.com/v2/ws/note?token=
+[14:39:35][I][NoteManager] ws: connected
+[14:39:35][I][NoteManager] ws: client info >
+[14:39:35][I][NoteManager] ws: send client info ok

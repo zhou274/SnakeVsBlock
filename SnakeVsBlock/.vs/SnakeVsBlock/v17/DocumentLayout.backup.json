@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\SnakeVsBlock\\",
+  "WorkspaceRootPath": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|c:\\users\\administrator\\snakevsblock\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|c:\\\u5B87\u5B99\u86C7\\snakevsblock\\assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\SnakeVsBlock\\assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,23 +27,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwD0AAAAsAAAAAAAAAA==",
+              "Title": "AdManager.cs",
+              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\AdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdManager.cs",
+              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\AdManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T06:25:38.826Z",
+              "WhenOpened": "2025-01-11T06:33:18.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwD0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:25:38.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SnakeMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
+              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeMovement.cs",
-              "ToolTip": "C:\\Users\\Administrator\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
+              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\SnakeMovement.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
