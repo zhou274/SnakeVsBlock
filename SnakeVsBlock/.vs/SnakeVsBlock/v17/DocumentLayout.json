@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\",
+  "WorkspaceRootPath": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|c:\\\u5B87\u5B99\u86C7\\snakevsblock\\assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|d:\\unity\\\u5B87\u5B99\u86C7\u738B\\snakevsblock\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\assets\\scripts\\hitboxbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hitboxbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,15 +29,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|c:\\\u5B87\u5B99\u86C7\\snakevsblock\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E04243AF-BD5C-9936-BE12-4D054A9C3C64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,92 +44,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Ball.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
-              "RelativeToolTip": "..\\..\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "Title": "HitBoxBehavior.cs",
+              "DocumentMoniker": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\HitBoxBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitBoxBehavior.cs",
+              "ToolTip": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\HitBoxBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitBoxBehavior.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAArwEMAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:43:13.59Z",
-              "EditorCaption": " [\u53EA\u8BFB]"
+              "WhenOpened": "2025-03-22T03:28:07.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ADManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "RelativeToolTip": "..\\..\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:40:07.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T06:40:07.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CebianlanManager(1).cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
-              "RelativeToolTip": "..\\..\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAAAI4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:39:03.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T06:39:03.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CebianlanManager.cs",
-              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\CebianlanManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T06:38:54.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AdManager.cs",
-              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\AdManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\AdManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AdManager.cs",
-              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\AdManager.cs",
+              "ToolTip": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\AdManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\AdManager.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvwgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:33:18.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T06:33:18.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
-              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAswMIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAmwA0BAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T06:25:38.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "SnakeMovement.cs",
-              "DocumentMoniker": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeMovement.cs",
-              "ToolTip": "C:\\\u5B87\u5B99\u86C7\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
+              "ToolTip": "D:\\Unity\\\u5B87\u5B99\u86C7\u738B\\SnakeVsBlock\\Assets\\Scripts\\SnakeMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\SnakeMovement.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T06:23:02.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:43:13.59Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
             }
           ]
         }
